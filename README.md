@@ -9,5 +9,8 @@
 Пример отчета, приходящего в telegram после детекции анамалии: 
 ![157819306-8d51da6e-b2a0-4756-9aec-451a342556218233264](https://user-images.githubusercontent.com/60318564/164885355-f220185a-729e-418a-ad49-592e80239bff.jpg)
 
+Дашборд в Radash по ссылке:
+![newplot](https://user-images.githubusercontent.com/60318564/164885593-ba32e6a5-ff03-49d0-bae1-b8b2dea1417e.png)
+
 
 ![photo_2022-03-09_19-33-58](https://user-images.githubusercontent.com/60318564/157819306-8d51da6e-b2a0-4756-9aec-451a34255621.jpg)
